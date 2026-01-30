@@ -1,0 +1,4 @@
+baseURL = 'https://blog.kkk987happy.com'
+languageCode = 'zh-cn'
+title = 'FallApart Blog'
+theme = 'coder'
